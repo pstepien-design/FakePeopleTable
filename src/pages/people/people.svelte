@@ -3,6 +3,6 @@
 </script>
 
 <main>
-  <h1>Here are people</h1>
+  <h1>THE TABLE OF PEOPLE</h1>
   <PeopleTable />
 </main>
